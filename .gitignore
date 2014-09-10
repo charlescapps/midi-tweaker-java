@@ -1,0 +1,10 @@
+*.mid
+*.midi
+*.class
+*.exe
+*.pyc
+*.swp
+*.iml
+.idea/
+out/
+midiFiles/
